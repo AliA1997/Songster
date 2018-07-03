@@ -1,0 +1,1 @@
+SELECT * FROM songster_users WHERE username = $1;

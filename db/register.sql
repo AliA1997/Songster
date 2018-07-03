@@ -1,0 +1,1 @@
+INSERT INTO songster_users (username, email, password) VALUES (${username}, ${email}, ${password});
